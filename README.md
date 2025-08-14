@@ -22,5 +22,5 @@ Projekt został stworzony w ramach nauki programowania i jako pierwsze repozytor
 ## 🚀 Jak uruchomić
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/TWOJ-LOGIN/hangman.git
+   git clone https://github.com/MMikina/Hangman.git
 
